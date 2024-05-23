@@ -1,2 +1,0 @@
-export const SET_FILTER = "SET_FILTER";
-export const SET_IS_FILTER_CHANGED = "SET_IS_FILTER_CHANGED";
